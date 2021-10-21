@@ -2,5 +2,4 @@
 Shared mybinder.org repo for python coding
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kartikn89/binder-python-practice/HEAD) 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/kartikn89/binder-python-practice/HEAD
+
